@@ -1,0 +1,22 @@
+{
+  "classes": [
+    "chickenpox",
+    "measles",
+    "acne",
+    "eczema",
+    "jaundice",
+    "healthy"
+  ],
+  "counts": {
+    "chickenpox": 30,
+    "measles": 30,
+    "acne": 30,
+    "eczema": 30,
+    "jaundice": 30,
+    "healthy": 30
+  },
+  "img_size": [
+    224,
+    224
+  ]
+}
